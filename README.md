@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @Jsalcedo19 
+- 👋 Hi, I’m Jose Salcedo
+- Beginning my coding Journey.
